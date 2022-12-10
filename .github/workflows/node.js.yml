@@ -29,5 +29,4 @@ jobs:
       uses: borales/actions-yarn@v4
       with:
           cmd: install # will run `yarn install` command
-    - run: npm run build --if-present
     - run: npm test
