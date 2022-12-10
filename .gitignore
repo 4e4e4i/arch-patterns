@@ -1,0 +1,12 @@
+### JetBrains IDEA
+.idea
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+### Node
+/node/**
+**/node_modules/**
+**/node_tools/**
